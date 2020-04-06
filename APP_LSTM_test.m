@@ -24,7 +24,7 @@ addpath ./external/matconvnet/matlab
 % vl_compilenn('enableGpu',true,'cudaRoot', '/usr/local/cuda-8.0')
 vl_setupnn
 state.rects = zeros(10, 4);
-for i=1:len
+for i=1:80%len
     i
     state.image_fl{state.frame}=names{i};
     im= imread(names{i});
