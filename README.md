@@ -1,5 +1,11 @@
 Download the VGG-Net uisng this link (download 'net.mat') and add in the main folder: https://drive.google.com/drive/folders/16XR2LgOeA9uAZfpd-NvaJepJmZZFnUlv?usp=sharing
 
+Download MatConvNet-1beta10 from https://www.vlfeat.org/matconvnet/, add to the main folder. and complie
+
+Or lternatively download the folder 'matlab' using the link https://drive.google.com/drive/folders/16XR2LgOeA9uAZfpd-NvaJepJmZZFnUlv?usp=sharing and add to the main folder.
+
+addpath matconvnet/matlab or addpath matlab
+
 Run the main entry file APP_LSTM_test.m
 
 APP_LSTM.m is the file to integrate the tracker to the VOT Toolkit
