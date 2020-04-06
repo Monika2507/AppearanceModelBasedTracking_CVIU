@@ -1,3 +1,5 @@
+Download the VGG-Net uisng this link (download 'net.mat') and add in the main folder: https://drive.google.com/drive/folders/16XR2LgOeA9uAZfpd-NvaJepJmZZFnUlv?usp=sharing
+
 Run the main entry file APP_LSTM_test.m
 
 APP_LSTM.m is the file to integrate the tracker to the VOT Toolkit
