@@ -1,6 +1,6 @@
-Download the VGG-Net uisng this link (download 'net.mat') and add in the main folder: https://drive.google.com/drive/folders/16XR2LgOeA9uAZfpd-NvaJepJmZZFnUlv?usp=sharing
+Download the VGG-Net using this link (download 'net.mat') and add in the main folder: https://drive.google.com/drive/folders/16XR2LgOeA9uAZfpd-NvaJepJmZZFnUlv?usp=sharing
 
-Download MatConvNet-1beta10 from https://www.vlfeat.org/matconvnet/, add to the main folder. and complie
+Download MatConvNet-1beta10 from https://www.vlfeat.org/matconvnet/, add to the main folder, and complie
 
 Or lternatively download the folder 'matlab' using the link https://drive.google.com/drive/folders/16XR2LgOeA9uAZfpd-NvaJepJmZZFnUlv?usp=sharing and add to the main folder.
 
